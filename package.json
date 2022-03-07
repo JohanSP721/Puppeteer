@@ -1,0 +1,16 @@
+{
+  "name": "puppeteer",
+  "version": "1.0.0",
+  "description": "Curso de introducción a automatización de pruebas con puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --forceExit"
+  },
+  "keywords": [],
+  "author": "Johan Sarmiento Peña",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.5.1",
+    "puppeteer": "^13.4.1"
+  }
+}
